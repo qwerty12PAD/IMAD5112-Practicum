@@ -1,2 +1,2 @@
-# IMAD5112-Practicum
-Practical examination
+# practicum music manager
+ practicumexam
